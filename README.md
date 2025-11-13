@@ -1,1 +1,1 @@
-# My Products App
+# My Products Application
