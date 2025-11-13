@@ -1,6 +1,5 @@
 /*==============================================
           Shoppy Website Stylesheet
-           Body Core Stylesheet
 ===============================================*/
 
 * {
@@ -2312,10 +2311,3 @@ button {
     padding-right: 10px;
 }
 
-@media screen and (max-width: 1920px) {}
-
-/*== 1440px Media Queries Styles ==*/
-
-@media screen and (max-width: 1440px) {}
-
-/*== 1024px Media Queries Styles ==*/
